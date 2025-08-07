@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Darryl Morley - Portfolio Website
 
-## Getting Started
+A modern, professional portfolio website showcasing expertise in full-stack development, with over 5 years of experience serving local businesses in Warwickshire and beyond. Specializing in eCommerce solutions, infrastructure deployment, and automated business processes.
 
-First, run the development server:
+## 🚀 Features
+
+- **Responsive Design**: Optimized for all devices with mobile-first approach
+- **Modern Tech Stack**: Built with Next.js 15, TypeScript, and Tailwind CSS
+- **SEO Optimized**: Comprehensive metadata, OpenGraph tags, and semantic HTML with local SEO focus
+- **Professional Sections**:
+  - Hero section emphasizing full-stack capabilities and local presence
+  - Expanded services covering 6 core areas of expertise
+  - Recent work showcasing real-world projects across diverse technologies
+  - About section highlighting local business focus and broad technical skillset
+  - Contact section with Warwickshire-focused messaging
+- **Performance Focused**: Fast loading times and optimized Core Web Vitals
+- **Dark Mode Support**: Automatic theme detection and switching
+
+## 🛠️ Tech Stack
+
+- **Framework**: [Next.js 15](https://nextjs.org/) with App Router
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Font**: [Inter](https://rsms.me/inter/) via Google Fonts
+- **Icons**: Custom SVG icons for optimal performance
+- **Deployment**: Optimized for Vercel deployment
+
+## � Core Expertise Showcased
+
+### eCommerce & Web Development
+
+- Next.js eCommerce solutions
+- Lightspeed Retail integrations
+- Local business websites for trades and consultants
+- Performance optimization
+
+### Backend & API Development
+
+- Go backend development with GORM
+- Node.js REST API development
+- Custom SDK creation and npm publishing
+- Third-party API integrations
+- Automated business workflows
+
+### SEO & Digital Marketing
+
+- Comprehensive SEO automation
+- Rank tracking systems
+- Metadata auditing
+- Structured data implementation
+- Local SEO optimization
+
+### Infrastructure & DevOps
+
+- Self-hosted system deployment
+- systemd service management
+- Reverse proxy setup (Caddy/NGINX)
+- HashiCorp Vault secret management
+- System automation and monitoring
+
+### Database & Performance
+
+- PostgreSQL optimization and design
+- SQLite performance tuning
+- Database indexing strategies
+- Query optimization
+- Data synchronization automation
+
+### Payment & Integration
+
+- Worldpay, Stripe, Barclays EPDQ integration
+- CRON job scheduling
+- Temporal workflow automation
+- Secure payment processing
+- Automated reporting systems
+
+## 🚀 Deployment
+
+The site is optimized for deployment on Vercel:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run build
+npm run start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+For other platforms, ensure environment variables are properly configured and the build artifacts are served correctly.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📞 Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+For inquiries about freelance development projects:
 
-## Learn More
+**Email**: [hello@darrylmorley.co.uk](mailto:hello@darrylmorley.co.uk)  
+**GitHub**: [https://github.com/darrylmorley](https://github.com/darrylmorley)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with ❤️ using Next.js, TypeScript, and Tailwind CSS
