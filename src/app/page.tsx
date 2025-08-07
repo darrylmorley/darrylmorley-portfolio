@@ -1,4 +1,5 @@
 import Hero from "@/components/Hero";
+import LocalBusinessBanner from "@/components/LocalBusinessBanner";
 import LocalCoverage from "@/components/LocalCoverage";
 import Services from "@/components/Services";
 import RecentWork from "@/components/RecentWork";
@@ -10,6 +11,7 @@ export default function Home() {
     <div className="min-h-screen bg-white dark:bg-gray-900">
       <main>
         <Hero />
+        <LocalBusinessBanner />
         <LocalCoverage />
         <Services />
         <RecentWork />

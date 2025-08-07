@@ -19,27 +19,25 @@ export default function HeroSection() {
           </div>
 
           <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">
-            Fast, SEO-Optimized
+            Professional eCommerce &
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">
-              {" "}
-              eCommerce Solutions
+              {" "}API Development
             </span>
           </h1>
 
           <p className="text-xl lg:text-2xl text-slate-300 mb-8 leading-relaxed">
-            Professional freelance developer specializing in Next.js, API
-            integrations, and high-performance websites for small to medium
-            businesses.
+            Specialized freelance developer delivering enterprise-grade eCommerce solutions, 
+            custom API integrations, and high-performance websites for growing businesses.
           </p>
 
           {/* Clear pricing */}
           <div className="bg-slate-800/50 border border-slate-700 rounded-lg p-6 mb-8 max-w-md mx-auto">
-            <p className="text-lg font-semibold mb-2">Website Development</p>
+            <p className="text-lg font-semibold mb-2">eCommerce & API Development</p>
             <p className="text-3xl font-bold text-emerald-400">
-              Starting from £500
+              Starting from £1,200
             </p>
             <p className="text-sm text-slate-400 mt-2">
-              Full eCommerce solutions from £1,500
+              Complete platforms from £2,500
             </p>
           </div>
 
@@ -48,7 +46,7 @@ export default function HeroSection() {
               size="lg"
               className="bg-emerald-600 hover:bg-emerald-700 text-white px-8 py-3"
             >
-              Get Your Quote Today
+              Discuss Your Project
               <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
             <Button
@@ -56,7 +54,7 @@ export default function HeroSection() {
               variant="outline"
               className="border-slate-600 text-white hover:bg-slate-800 px-8 py-3"
             >
-              View Portfolio
+              View Technical Portfolio
             </Button>
           </div>
         </div>
